@@ -89,7 +89,7 @@ Get updates on Shabad OS and chat with the project maintainers and community mem
 
 There are multiple ways to contribute whether you are a user or developer. For example:
 
-- Review physical sources and compare them to what has been digitized. [Learn more about proofreading >](https://tutorials.shabados.com/tutorials/1.0.0/database-viewer/proofreading.html)
+- Review physical sources and compare them to what has been digitized. [Learn more about proofreading >](https://www.shabados.com/support/learn-how-to-proofread/)
 - Submit proofreading tickets. Help us verify whether they are legit. [Explore our proofreading issue tracker >](https://github.com/ShabadOS/database/issues)
 - [Submit bugs and feature requests][new-issue-url].
 - Review documentation and make pull requests for anything from typos to new content.
@@ -107,7 +107,7 @@ The original code was written by the current lead maintainer, Harjot Singh ([@ha
 
 - Ask questions and get help in our community chat via [Slack][chat-url]
 - [Upvote popular feature requests][upvote-tracker-url] using the thumbs-up/+1 reaction on the first post of a feature request
-- Follow [@shabad_os on Instagram](instagram-url) and [@shabad_os on Twitter](twitter-url) and let us know what you think!
+- Follow [@shabad_os on Instagram][instagram-url] and [@shabad_os on Twitter][twitter-url] and let us know what you think!
 
 ## Related Projects
 
